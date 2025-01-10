@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-nu vrea
 nu vrea sorin
-=======
-nu vrea 
-Sorin
->>>>>>> 7c2ab2465584f49f49ed10cc087e5454e8ea6564
